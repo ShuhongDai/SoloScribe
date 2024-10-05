@@ -1,6 +1,6 @@
 # SoloScribe: A Lightweight Speech-to-Text Tool
 
-SoloScribe is a Python-based tool that I developed to efficiently convert speech to text, leveraging reliable machine learning methods. The tool is designed to be lightweight and easy to use, offering seamless functionality for both individual and batch audio file transcription.  However, it is lightweight and easy to use. The tool provides functionalities for transcribing individual audio files or batch processing multiple files in a directory. The transcription results can be optionally saved to text files for later use.
+SoloScribe is a Python-based tool that I developed to efficiently convert speech to text, leveraging reliable machine learning methods. The tool is designed to be lightweight and easy to use, offering seamless functionality for both individual and batch audio file transcription. However, it is lightweight and easy to use. The tool provides functionalities for transcribing individual audio files or batch processing multiple files in a directory. The transcription results can be optionally saved to text files for later use.
 
 ## Features
 - Transcribe individual audio files to text.
